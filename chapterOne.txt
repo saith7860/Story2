@@ -1,1 +1,2 @@
 this is my chapter one for learning something.
+I want to learn git in one week.
